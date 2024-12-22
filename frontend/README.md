@@ -28,10 +28,5 @@ Ensure you have the following installed:
 - Node.js (v14+)
 - MongoDB (for database)
 
-### Steps
 
-1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/Parwez0786/TradeVantage.git
-   ```
